@@ -1,0 +1,14 @@
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\bin\Debug\netcoreapp2.2\DotNetCoreAPI.deps.json
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\bin\Debug\netcoreapp2.2\DotNetCoreAPI.runtimeconfig.json
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\bin\Debug\netcoreapp2.2\DotNetCoreAPI.runtimeconfig.dev.json
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\bin\Debug\netcoreapp2.2\DotNetCoreAPI.dll
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\bin\Debug\netcoreapp2.2\DotNetCoreAPI.pdb
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.csprojAssemblyReference.cache
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.csproj.CoreCompileInputs.cache
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.RazorAssemblyInfo.cache
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.RazorAssemblyInfo.cs
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.AssemblyInfoInputs.cache
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.AssemblyInfo.cs
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.RazorTargetAssemblyInfo.cache
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.dll
+D:\HemaliDotNetCoreApplication\DotNetCoreAPI\DotNetCoreAPI\obj\Debug\netcoreapp2.2\DotNetCoreAPI.pdb
